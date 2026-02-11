@@ -25,12 +25,13 @@ ul {
   padding: 0.75rem;
   outline: none;
   border: 1px solid rgb(247, 247, 247);
-  width: 18rem;
+  width: 16rem;
 }
 
 .form-submit-btn {
   background-color: #666;
   padding: 0.75rem;
+  margin: 0 0.75rem;
   border: 1px solid #666;
   color: #fff;
   font-size: 16px;

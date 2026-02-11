@@ -1,6 +1,7 @@
 
 import './App.css'
 import CourseForm from './components/CourseForm'
+import CourseList from './components/CourseList'
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
     <div className="main-container">
       <h1 style={{fontSize:"2.5em",marginBottom:"2rem"}}>My Course List</h1>
       <CourseForm/>
+      <CourseList/>
     </div>
   )
 }
